@@ -1,6 +1,6 @@
 ### Data Science Projects Portfolio
 #### 1. Real-time Patient Monitoring [DSC500](https://github.com/madhukarayachit/DSC500)
-#### 2. Sentiment Analysis DSC 510 (https://github.com/madhukarayachit/DSC510)
+#### 2. Sentiment Analysis [DSC 510] (https://github.com/madhukarayachit/DSC510)
 #### 3. Customer Segmentation ( DSC 520)
 #### 4. GSS Data exploration (DSC 530)
 #### 5. COVID 19 cases and deaths. ( DSC  540)
