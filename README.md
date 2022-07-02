@@ -39,7 +39,7 @@ This is part of visual exploration in Python/R/Tableau with presenting comparati
 Diabetes Prediction model can help us understand the trend of patients and their treatment over time. This analysis can help the hospitals understand the trends in data develop strategies to proactively identify the patients who need attention in a way that Diabetes can be managed in a better way
 
 #### 10. Glasdoor Review Analysis [DSC680](https://github.com/madhukarayachit/DSC680)
-
+This prohject is going to target employee reviews to assess employer rating
 TBD
 <!--
 **madhukarayachit/madhukarayachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
