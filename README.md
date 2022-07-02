@@ -7,7 +7,7 @@
 #### 6. Sentiment Analysis - Part 2 [DSC550](https://github.com/madhukarayachit/DSC550)
 #### 7. Bulding Predictive model on Diabetes [DSC630](https://github.com/madhukarayachit/DSC630)
 #### 8. Aviation Safety  [DSC640](https://github.com/madhukarayachit/DSC640)
-#### 9. Diabetes Prediction Using Machine Learning [DSC650](https://github.com/madhukarayachit/DSC650)
+#### 9. Diabetes Prediction Using Machine Learning [DSC680](https://github.com/madhukarayachit/DSC680)
 #### 10. Glasdoor Review Analysis [DSC680](https://github.com/madhukarayachit/DSC680)
 <!--
 **madhukarayachit/madhukarayachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
